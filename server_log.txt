@@ -1,0 +1,7 @@
+2026-10-25 14:00:00 - INFO - User admin login successful from IP 192.168.1.50
+2026-10-25 14:01:05 - WARNING - Invalid password for user root from IP 203.0.113.5
+2026-10-25 14:01:10 - WARNING - Invalid password for user root from IP 203.0.113.5
+2026-10-25 14:01:15 - WARNING - Invalid password for user root from IP 203.0.113.5
+2026-10-25 14:01:20 - WARNING - Invalid password for user root from IP 203.0.113.5
+2026-10-25 14:02:00 - INFO - User johan login successful from IP 192.168.1.55
+2026-10-25 14:03:12 - WARNING - Invalid password for user guest from IP 198.51.100.12
